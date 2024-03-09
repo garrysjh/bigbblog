@@ -16,6 +16,7 @@ export default defineConfig({
     react(),
     sitemap(),
   ], 
+  base: SITE.base,
   markdown: {
     remarkPlugins: [
       remarkToc,
