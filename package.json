@@ -4,8 +4,9 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
+    "test-build": "astro check && astro build && jampack ./dist && astro preview",
     "build": "astro check && astro build && jampack ./dist",
-    "preview": "astro dev",
+    "preview": "astro preview",
     "sync": "astro sync",
     "astro": "astro",
     "format:check": "prettier --check . --plugin=prettier-plugin-astro",
