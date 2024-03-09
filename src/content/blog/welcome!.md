@@ -10,7 +10,7 @@ tags:
   - welcome
 description: An introduction post for my blog
 ---
-Hi and welcome to my webpage.
+Hi and welcome to my webpage. This page is written in Astro.js, hosted statically at the moment on Github pages and is based on satnaing's Astopaper template. 
 
 This page will be where I write things that I've learnt, am passionate about, or things that can relate to whatever is happening around the Internet. 
 
