@@ -1,7 +1,7 @@
 ---
 author: Garry Shi
 pubDatetime: 2024-03-10T09:19:00Z
-title: Introduction to shadcn-ui
+title: My Introductory Experience to shadcn-ui
 slug: shadcn
 featured: false
 draft: false
