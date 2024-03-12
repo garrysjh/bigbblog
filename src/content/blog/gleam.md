@@ -19,7 +19,7 @@ _Of course, like most articles, I'll probably come back to this in due time!_
 
 Personally, I haven't had much experience with functional languages as compared to imperative programming languages, especially since most of my universtiy education has its roots in more object-oriented languages such as Java. However, I recently came across a video [here](https://www.youtube.com/watch?v=_I-CSgoCgsk) by a Youtuber called Theo talking about the release of Gleam. It made me interested, so I spent one of my evenings after my internship taking a look at Gleam. I don't intend on spending hours becoming a Gleam master, but it is certainly interesting to take a look at newer technologies!
 
-![Gleam's Landing Page](@assets/images/gleam/gleam.webp)
+![Gleam's Landing Page](@assets/images/gleam/gleam-webpage.webp)
 _Gleam's landing page, also found at [this link](https://gleam.run/)_
 
 Of course, I did my research first on Reddit and a bunch of other sides apart from watching the video, and I recognize that Gleam's a fresh, new and relatively immature language compared to older functional languages such as OCaml, Elixir or Scala, and therefore would have less support online when it comes to documentation and help but I figured that I was just going to try experimenting with a new technology. Either way, I might or might not eventually try attempting a project with Gleam and document the process!
