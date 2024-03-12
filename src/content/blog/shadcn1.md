@@ -13,7 +13,7 @@ tags:
   - learning
   - libraries
 
-description: My experience and opinions on shadcn
+description: My brief experience using shadcn-ui
 ---
 
 # Introduction
@@ -36,6 +36,10 @@ import {
 ```
 
 For example, shadcn-ui requires the user to import components that are installed/copy-pasted with `npx shadcn-ui@latest add accordion`, and the code is now part of your source code.
+
+## shadcn vs other UI libraries
+
+One common point of comparison I noticed with shadcn was that it was always compared to Mantine. I haven't had experience with Mantine, but it seems to be a component library, similar to shadcn, and I will most likely look into it in the future.
 
 ## My Experience
 
