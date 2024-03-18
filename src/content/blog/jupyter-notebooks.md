@@ -3,7 +3,7 @@ author: Garry Shi
 pubDatetime: 2024-03-18T14:05:00Z
 title: Collaboration Patterns with Jupyter Notebooks
 slug: jupyter
-featured: false
+featured: true
 draft: false
 tags:
   - software
@@ -33,6 +33,9 @@ Collaboration patterns in Jupyter notebooks are interesting due to the nature of
 Git and its associated platforms (Gitlab/Github/etc.) are one of the most common ways for software developers to collaborate and manage version control. For most newer versions of Gitlab and Github, it is possible to view diffs between versions of Jupyter notebooks in a repository, but I have encountered issues with older Git-platforms not supporting viewing Jupyter notebook diffs on the platform or not being able to translate notebook metadata to proper formatted text. (ultimately, it depends on the environment)
 
 ## Live Collaboration with Jupyterlab / Extensions
+
+![Jupyterlab RTC](@assets/images/jupyter/rtc.webp)
+_Jupyterlab real-time collaboration at work, found at [this link](https://jupyterlab-realtime-collaboration.readthedocs.io/en/latest/)_
 
 Jupyterlab provides an extension named (jupyter_collaboration)[https://jupyterlab-realtime-collaboration.readthedocs.io/en/latest/], which allows for real-time collaboration. This requires a shared link to a Jupyter notebook, which I personally haven't tried, but could lead to potential security issues (imo).
 
