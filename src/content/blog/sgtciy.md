@@ -1,6 +1,7 @@
 ---
 author: Garry Shi
 pubDatetime: 2024-03-11T16:05:00Z
+modDatetime: 2024-04-22T09:19:00Z
 title: Review of "So Good They Can't Ignore You" by Cal Newport
 slug: so-good-they-cant-ignore-you
 featured: false
@@ -10,13 +11,11 @@ tags:
   - learning
   - reflection
 
-description: My current changing thoughts on "So Good They Can't Ignore You" by Cal Newport and writing in general
+description: Review and Summary on "So Good They Can't Ignore You" by Cal Newport
 ---
 
 ![Cover for the book, "So Good They Can't Ignore You](@assets/images/sogoodtheycantignoreyou.webp)
 _Cover for the book, "So Good They Can't Ignore You_
-
-_I intend on coming back to finish what I've written once I've completed the book! (Hopefully)_
 
 ## Preface
 
@@ -33,3 +32,11 @@ Interestingly, the idea of being "So good they can't ignore you" is hard to tran
 Regardless of what one may feel being good enough dictates in their respective fields, I hope to be able to embody the concept of self-improvement, be it starting from improving my eloquence in writing and communication to more technical level skills such as my confidence and knowledge in code and technical frameworks, I also hope to be able to constantly look to be passionate about learning new things and I hope this blog proves a strong starting point in my journey of self-learning.
 
 Unfortunately, I find that due to the rust that comes with writing after what feels like _decades_ since I've written as a wee teenager, my skills in conveying what I want to present in words has heavily deteriorated. Perhaps one day I will be able to reflect on this article and observe my improvement then.
+
+## After finishing the book
+
+Ultimately, the book revolves around the perception of the focus on constantly accumulating career capital, on how it should be a pivotal focus in ones life and career instead of focusing on ones perceived passions. To focus on what the world can offer you instead of what you can offer the world will result in chronic unhappiness based off the hyperfixation on what the world lacks instead. 
+
+Naturally, with the glorification of pursuing ones "passions" winning out in popular forms of media: For example, a man quits his boring 9-5 desk job to become a musician and ultimately makes it big in the world is one of the more common tropes behind movies that I've observed; It's plentiful refreshing to observe a cynical and realistic outlook on being "successful". 
+
+This book, much like other self-help-ish advice books such as Atomic Habits follow the same structural formula: Give advice from a personal perspective, speaking as though they are a friend giving advice and then providing evidence from people they've interviewed or consulted to validate their statements. Overall, I enjoyed the book and this did give me renewed perspective on career capital and how work trumps passion, and I'm confident that reading the book would be great for the average salaryman thinking about quitting his job to pursue his passions. Do pick up the book if the title attracts you; the title was one of the largest selling points for me: since I resonated with the goal of the title!
