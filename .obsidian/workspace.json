@@ -16,8 +16,19 @@
                 "currentVersion": "1.5.11"
               }
             }
+          },
+          {
+            "id": "4c68518032b6752f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +151,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92a69e31b35dcdc8",
+  "active": "4c68518032b6752f",
   "lastOpenFiles": [
     "AstroPaper-lighthouse-score.svg"
   ]
