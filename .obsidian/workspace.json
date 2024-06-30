@@ -26,9 +26,19 @@
                 "currentVersion": "1.5.12"
               }
             }
+          },
+          {
+            "id": "b501aae4c1e93126",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c68518032b6752f",
+  "active": "b501aae4c1e93126",
   "lastOpenFiles": [
     "src/content/blog/atomic-habits.md",
     "AstroPaper-lighthouse-score.svg"
