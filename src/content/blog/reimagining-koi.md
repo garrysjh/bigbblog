@@ -52,8 +52,8 @@ Nevertheless, we chose to press on what way the self-ordering experience might b
 
 Therefore, digging deeper into comments about what problems were experienced by users who used the self-ordering kiosk, we managed to find comments shown below:
 
-<p style="text-align:center;"><em>
-“I need to look through multiple categories to find the drink I want” </em>s
+<p style="text-align:center;"><em><b>
+“I need to look through multiple categories to find the drink I want”</em>s
 </p>
 <p style="text-align:center;"><em>
 “i think i remembered one time i pressed “back” from the checkout page bc i wanted to order more and it cleared everything in my cart” </em>
@@ -63,7 +63,7 @@ Therefore, digging deeper into comments about what problems were experienced by 
 </p>
 <p style="text-align:center;"><em>
 “The machine lags a lot at times.” </em>
-</p>
+</p></b>
 
 The comments mentioned specific problems with the user experience in the kiosk, especially with regards to the confusion involved in navigating the kiosk to find a specific drink, or to get to a certain page, and being unable to find certain components of the ordering experience.
 
@@ -79,14 +79,20 @@ The natural progression we expected was to focus more on the self-ordering kiosk
 
 First, we adopted the method of splitting the insights we derived from the research that we conducted, followed by coming up with HMWs (How might we’s), as well as finally deriving success metrics to decide if the idea is successful or not. We decided to adopt a group oriented method of brainstorming, and made use of post it notes in quick consecutive brainstorming sessions. After coming up with post it notes for ideas on chosen insights, we then honed in on ideas that were decided via a collective vote, where each person in the group chose their top 3 ideas that we would eventually solve from.
 
+![Success Metrics](@assets/images/reimagining-koi/success_metric.png)
+
 ## Solutioning
 
 Eventually, we proceeded with a prototyping system for which we iterated initial Lo-Fi (Low Fidelity) prototypes based on the ideas that we voted for. These initial prototypes came in the form of small scale drawings that could take up to a few hours to draw and create, to give us a sense of what the ideas would look like implemented, with the plans of combining all of these ideas to create a more intuitive and aesthetic design. The designs that we combined can be seen below:
 
-![One of our lo-fi designs](@assets/images/reimagining-koi/lofi2.jpg)
+![One of our lo-fi designs](@assets/images/reimagining-koi/lofi.jpg)
 
-We went through many different iterations of Lo-Fi prototypes, and this culminated in our first version of our Figma Med-Fi (Medium Fidelity prototype). This prototype is viewable in the below link, and we also have some screenshots of the screens below.
+![Another one of our lo-fi designs](@assets/images/reimagining-koi/lofi2.jpg)
 
-Naturally, after coming up with our first solution, intuition goes to test for feedback and iterate on our following design.
+![Third one of our lo-fi designs](@assets/images/reimagining-koi/lofi3.png)
+
+We went through many different iterations of Lo-Fi prototypes, and this culminated in our first version of our Figma Med-Fi (Medium Fidelity prototype). This prototype is viewable [here](https://www.figma.com/proto/5VYRg1OdmzuIKvDK8x01Fy/no-more-koi?node-id=0-1&t=UQUgKrXiGFt82cyW-1), and we also have some screenshots of the screens below.
+
+Naturally, after coming up with our first solution, intuition goes to test for feedback and iterate on our following design. We went through multiple rounds of testing and feedback,
 
 After we tested, we found that most feedback fell around certain aspects of our prototype, namely a need to improve clarity, a need to improve simplicity of certain screens, and a lack of design consistency. After rounds of discussions and
