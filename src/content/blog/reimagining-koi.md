@@ -42,15 +42,28 @@ Nevertheless, we chose to press on what way the self-ordering experience might b
 
 <p style="text-align: center;"><em>9 in 11 respondents had a relatively good experience with the KOI mobile app!</em></p>
 
+![1 in 4 respondents didn't have a good experience](@assets/images/reimagining-koi/1in4kiosk.png)
+
 <p style="text-align: center;"><em>1 in 4 respondents had a less than moderate (1-3 rating) experience using the self-ordering kiosk</em></p>
+
+![1 in 5 didn't know you could order without the kiosk](@assets/images/reimagining-koi/1in5didntknow.png)
 
 <p style="text-align: center;"><em>1 in 5 respondents did not know that you could order without the KOI kiosk</em></p>
 
 Therefore, digging deeper into comments about what problems were experienced by users who used the self-ordering kiosk, we managed to find comments shown below:
-“I need to look through multiple categories to find the drink I want”
-“i think i remembered one time i pressed “back” from the checkout page bc i wanted to order more and it cleared everything in my cart”
-“Sometimes i click on the wrong sugar / ice option, when i first started using the kiosk i couldn't find the "no topping" option”
-“The machine lags a lot at times.”
+
+<p style="text-align:center;"><em>
+“I need to look through multiple categories to find the drink I want” </em>s
+</p>
+<p style="text-align:center;"><em>
+“i think i remembered one time i pressed “back” from the checkout page bc i wanted to order more and it cleared everything in my cart” </em>
+</p>
+<p style="text-align:center;"><em>
+“Sometimes i click on the wrong sugar / ice option, when i first started using the kiosk i couldn't find the "no topping" option” </em>
+</p>
+<p style="text-align:center;"><em>
+“The machine lags a lot at times.” </em>
+</p>
 
 The comments mentioned specific problems with the user experience in the kiosk, especially with regards to the confusion involved in navigating the kiosk to find a specific drink, or to get to a certain page, and being unable to find certain components of the ordering experience.
 
@@ -62,11 +75,15 @@ After confirming the claims by surveying and finding out the opinions of the KOI
 
 The natural progression we expected was to focus more on the self-ordering kiosk, since we felt that having the most users recognize it as the only option to order from KOI, we felt that this would have the most impact on improving the self-order experience.
 
+![Back to the drawing board](@assets/images/reimagining-koi/figjam_hmw.png)
+
 First, we adopted the method of splitting the insights we derived from the research that we conducted, followed by coming up with HMWs (How might we’s), as well as finally deriving success metrics to decide if the idea is successful or not. We decided to adopt a group oriented method of brainstorming, and made use of post it notes in quick consecutive brainstorming sessions. After coming up with post it notes for ideas on chosen insights, we then honed in on ideas that were decided via a collective vote, where each person in the group chose their top 3 ideas that we would eventually solve from.
 
 ## Solutioning
 
 Eventually, we proceeded with a prototyping system for which we iterated initial Lo-Fi (Low Fidelity) prototypes based on the ideas that we voted for. These initial prototypes came in the form of small scale drawings that could take up to a few hours to draw and create, to give us a sense of what the ideas would look like implemented, with the plans of combining all of these ideas to create a more intuitive and aesthetic design. The designs that we combined can be seen below:
+
+![One of our lo-fi designs](@assets/images/reimagining-koi/lofi2.jpg)
 
 We went through many different iterations of Lo-Fi prototypes, and this culminated in our first version of our Figma Med-Fi (Medium Fidelity prototype). This prototype is viewable in the below link, and we also have some screenshots of the screens below.
 
