@@ -16,13 +16,13 @@ description: Reimagining the KOI Ordering Experience, a case study on how to imp
 
 ## Introduction
 
-Boba, pearls, tapioca, bubble tea. If you're Asian, a boba lover or Singaporean like I am, I’m sure you're most likely familiar with some - if not all of these terms. Bubble tea has had its eminence in lots of Asian cultures, from its humble early beginnings in Taiwan to now taking up half of my neighborhood shopping mall directories (I still can’t believe that the mall near my house has 5 different bubble tea stores!), one can’t deny the notability of bubble tea as a part of our “culture”, if not, a homely cozy drink to temper ourselves from the desolate afternoon heat of Singapore.
+Boba, pearls, tapioca, bubble tea. If you're Asian, a boba lover or Singaporean like I am, I’m sure you're most likely familiar with some - if not all of these terms. Bubble tea has had its eminence in lots of Asian cultures, from its humble early beginnings in Taiwan to now taking up half of my neighborhood shopping mall directories, one can’t deny the notability of bubble tea as a part of our “culture”, if not, a homely cozy drink to temper ourselves from the desolate afternoon heat of Singapore.
 
 ![KOI Image](@assets/images/reimagining-koi/koi.jpg)
 
-I personally grew up drinking bubble tea from 2 different bubble tea stores – namely SweetTalk and KOI. While the former has retreated itself into the confines of smaller rural neighborhoods, the latter has proliferated into almost every edge of the Singaporean experience(™). Nevertheless, like the grown adult that I am, I too have come to surmount the childhood crush of my beloved SweetTalk and moved on to my newest bubble tea relationship with KOI, and have been a loyal KOI member and customer since 2022. Even so, like a toxic partner, KOI has always had some ugly parts – namely its ordering experience.
+I personally grew up drinking bubble tea from 2 different bubble tea stores – namely SweetTalk and KOI. Nevertheless, like the grown adult that I am, I too have come to surmount the childhood crush of my beloved SweetTalk and moved on to my newest bubble tea relationship with KOI, and have been a loyal KOI member and customer since 2022. Even so, like a toxic partner, KOI has always had some ugly parts – namely its ordering experience.
 
-From its conception, like most hawker stalls, KOI has always adopted a standard counter order system. At some point, KOI chose to adopt a self-ordering experience, probably for efficiency by ensuring baristas don’t have to take up orders, at the same time optimizing their profit to employee ratio. In spite of that, I generally have had a distaste for the KOI self ordering experience, stemming from unclear user ordering experiences such as their decrepit membership system to their unsightly user interfaces. Ultimately, I've always had the thought that it works, but is it good? Not really. Why though, we would have to find out.
+From its conception, like most hawker stalls, KOI has always adopted a standard counter order system. At some point, KOI chose to adopt a self-ordering experience, probably for efficiency by ensuring baristas don’t have to take up orders, at the same time optimizing their profit to employee ratio. In spite of that, my friends and I have generally had certain thoughts about their self ordering system, stemming from unclear user ordering experiences such as their decrepit membership system to their unsightly user interfaces. Ultimately, I've always had the thought that it works, but is it good? Not really. Why though, we would have to find out.
 
 ## Researching
 
@@ -176,7 +176,7 @@ After adopting this design system, and going through rounds of discussion and co
 
 This prototype can be found in the link [here](https://www.figma.com/proto/5VYRg1OdmzuIKvDK8x01Fy/no-more-koi?node-id=318-562&p=f&t=nGxtXmALAaTrS4Nd-0&scaling=scale-down&content-scaling=fixed&page-id=245%3A62&starting-point-node-id=316%3A543).
 
-The prototype also has the screens as follows:
+The prototype also has some of the screens as follows:
 
 ![Final Prototype 2 Landing Page](@assets/images/reimagining-koi/proto2landing.png)
 
