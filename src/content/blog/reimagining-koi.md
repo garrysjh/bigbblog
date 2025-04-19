@@ -62,7 +62,7 @@ Therefore, the natural option at that point was to do a deep dive into how to im
 Therefore, digging deeper into comments about what problems were experienced by users who used the self-ordering kiosk, we managed to find comments shown below:
 
 <p style="text-align:center;"><em><b>
-“I need to look through multiple categories to find the drink I want”</em>s
+“I need to look through multiple categories to find the drink I want”</em>
 </p>
 <p style="text-align:center;"><em>
 “i think i remembered one time i pressed “back” from the checkout page bc i wanted to order more and it cleared everything in my cart” </em>
@@ -86,11 +86,15 @@ The natural progression we expected was to focus more on the self-ordering kiosk
 
 ![Back to the drawing board](@assets/images/reimagining-koi/figjam_hmw.png)
 
+<p style="text-align: center;"><em>How Might We's</em></p>
+
 First, we adopted the method of splitting the insights we derived from the research that we conducted, followed by coming up with HMWs (How might we’s), as well as finally deriving success metrics to decide if the idea is successful or not. We decided to adopt a group oriented method of brainstorming, and made use of post it notes in quick consecutive brainstorming sessions.
 
 After coming up with post it notes for ideas on chosen insights, we then honed in on ideas that were decided via a collective vote, where each person in the group chose their top 3 ideas that we would eventually solve from, focusing on deciding on ideas to work on in a very democratic manner.
 
 ![Success Metrics](@assets/images/reimagining-koi/success_metric.png)
+
+<p style="text-align: center;"><em>Success Metrics</em></p>
 
 Ultimately, we segregated these ideas into the top few, and chose to focus on them in our solutioning with Lo-Fi (Low Fidelity) prototypes that will be elaborated in the next section.
 
@@ -104,7 +108,11 @@ Eventually, we proceeded with a prototyping system for which we iterated initial
 
 ![Third one of our lo-fi designs](@assets/images/reimagining-koi/lofi3.png)
 
-We went through many different iterations of Lo-Fi prototypes, and after converging and combining these Lo-Fi prototypes into one singular prototype, this culminated in our first version of our Figma Med-Fi (Medium Fidelity prototype). This prototype is viewable [here](https://www.figma.com/proto/5VYRg1OdmzuIKvDK8x01Fy/no-more-koi?node-id=0-1&t=UQUgKrXiGFt82cyW-1), and we also have some screenshots of the screens below:
+We went through many different iterations of Lo-Fi prototypes, and after converging and combining these Lo-Fi prototypes into one singular prototype, this culminated in our first version of our Figma Med-Fi (Medium Fidelity prototype). This prototype is viewable [here](https://www.figma.com/proto/5VYRg1OdmzuIKvDK8x01Fy/no-more-koi?node-id=118-10&t=UQUgKrXiGFt82cyW-1&starting-point-node-id=41%3A393), and we also have some screenshots of the screens below:
+
+![First Prototype Main Page](@assets/images/reimagining-koi/proto1main.png)
+
+![First Prototype Drinks Selection Page](@assets/images/reimagining-koi/proto1drinks.png)
 
 ### Testing
 
@@ -120,6 +128,8 @@ Naturally, after coming up with our first solution, intuition goes to test for f
 
 ![System Usability Scale Template](@assets/images/reimagining-koi/sus.png)
 
+<p style="text-align: center;"><em>System Usability Scale Template</em></p>
+
 **Time on task** refers to the time taken for the user to finish each task. We based these on video recordings of each user task for our prototype on Figma.
 
 **Number of errors** refers to the number of wrong clicks or deviation from the most optimal path to complete a task. We created an error page and linked it to buttons that would deviate the user out of the most optimal path.
@@ -132,10 +142,50 @@ Some of our test results are shown below:
 
 ![SUS Results](@assets/images/reimagining-koi/sus_results.png)
 
+<p style="text-align: center;"><em>SUS Results</em></p>
+
 For instance, our SUS results show that the current KOI kiosk interface had an average of 70.25, while our first prototype resulted in an average of 72.5, for which both were above our set benchmark of 68. This indicated that our design improved usability, but the differences weren't too big.
 
 ![Number of Errors in Current Interface vs Our Design](@assets/images/reimagining-koi/errorcount.png)
 
+<p style="text-align: center;"><em>Number of Errors in Current Interface vs Our Design</em></p>
+
 For the number of errors in our current interface, our first prototype as compared to the current KOI kiosk interface were compared, and we found that the number of errors dipped significantly, indicating an increase in usability of our interface.
 
-After we tested, we found that most feedback fell around certain aspects of our prototype, namely a need to improve clarity, a need to improve simplicity of certain screens, and a lack of design consistency. After rounds of discussions and
+Finally, we mainly looked at our RTA feedback. Testers liked 4 main aspects of our design:
+
+- **Ease of Navigation and Intuitiveness of our design**
+- **The Cart Summary in the Main Page**
+- **Our bright colour theme and use of the KOI mascot**
+- **Using real pictures and animations for better visual representation**
+
+However, some observable elements that they didn't like were observed as follows:
+
+- **Design Inconsistencies**
+- **Too many components in single pages**
+
+for which to fix these problems, we had three main goals: **Improve Clarity of our screens, Simplify Screens by reducing components and creating some form of Design Consistency**
+
+To do so, we decided to utilize a _Design System_, with 3 main keywords to define our design system. We focused on a simple yet appealing design, with visual indicaters to subtly highlight touchpoints during the ordering process for clarity.
+
+![Design System Example](@assets/images/reimagining-koi/designsystem.png)
+
+<p style="text-align: center;"><em>Example of elements in our Design System</em></p>
+
+After adopting this design system, and going through rounds of discussion and collaboration, we finally came up with our second iteration and final prototype. This prototype utilized elements of our design system such as defined typecales, having numbers in a larger font size of 48 with heavier font weights, headers to indicate main functions of pages, selectable components having slight protruding effects, etc.
+
+This prototype can be found in the link [here](https://www.figma.com/proto/5VYRg1OdmzuIKvDK8x01Fy/no-more-koi?node-id=318-562&p=f&t=nGxtXmALAaTrS4Nd-0&scaling=scale-down&content-scaling=fixed&page-id=245%3A62&starting-point-node-id=316%3A543).
+
+The prototype also has the screens as follows:
+
+![Final Prototype 2 Landing Page](@assets/images/reimagining-koi/proto2landing.png)
+
+![Final Prototype 2 Main Page](@assets/images/reimagining-koi/proto2main.png)
+
+![Final Prototype 2 Drinks Selection](@assets/images/reimagining-koi/proto2drinksize.png)
+
+![Final Prototype 2 Toppings](@assets/images/reimagining-koi/proto2toppings.png)
+
+Ultimately, given the scope and time of the project, we could've went through more iterations of testing to get more feedback about the current state of our prototype, but these are the main getaways and finalized iterations of **_Reimagining the KOI Self Ordering Experience_** for the group _Garry and Friends_. This module was a culmination of NTU's DV2008 module.
+
+Thank you for reading!
