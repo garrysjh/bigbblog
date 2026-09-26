@@ -43,7 +43,7 @@ This site serves as my digital notebook and publishing hub. My essays and deep d
 
 I am always interested in discussing new freelance opportunities, interesting engineering challenges, or collaborations in the fintech space.
 
-* **Email:** [your-email@example.com](mailto:garryshi@gmail.com)
+* **Email:** [garryshi@gmail.com](mailto:garryshi@gmail.com)
 * **LinkedIn:** [linkedin.com/in/garryshi](https://www.linkedin.com/in/garryshi/)
 * **GitHub:** [github.com/your-username](https://github.com/garrysjh)
 
